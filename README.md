@@ -3,10 +3,10 @@
 
 <h3> :man:About Me </h3>
 
-- :books:&nbsp; I’m currently learning VueJS and Docker.
-- :microscope: &nbsp; Exploring new technologies and developing software solutions.
 - :heavy_check_mark: &nbsp; Back-end developer and Mobile-app developer.
-- ☕ &nbsp; Favourite quote - "Roses from concrete" 
+- :microscope: &nbsp; I'm always exploring new technologies and developing software solutions.
+- :books: &nbsp;That said :point_up: I’m currently learning VueJS and Docker.
+- :musical_note: &nbsp; A lover of house music 
 
 <h3>🛠 Tech Stack</h3>
 
