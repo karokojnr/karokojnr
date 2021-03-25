@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="" height="200"/>
+<!--   <img src="" height="200"/> -->
 </p>
 <hr>
 <h1 align="center">Hi, there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
@@ -40,6 +40,5 @@ I'm passionate about making sure that Mobile Apps and Back-end services I create
   <code> <img height="50" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html.png"> </code>
   <code> <img height="50" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css.png"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/docker-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/docker-ar21.svg"> </code>  
    <hr>
  </p>
