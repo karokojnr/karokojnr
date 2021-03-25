@@ -20,7 +20,7 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karokojnr&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/karokojnr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karokojnr&line_height=20&layout=compact&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/karokojnr/github-readme-stats)
 
 
 <h3> :link: Connect with Me </h3>
