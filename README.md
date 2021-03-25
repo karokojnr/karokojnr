@@ -1,11 +1,11 @@
 <h2> Hey there!👋</h2>
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" width="500"/>
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h3> :man:About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning VueJS and Docker.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 💼 &nbsp; Back-end developer and mobile-appd developer.
+- :books:&nbsp; I’m currently learning VueJS and Docker.
+- :microscope: &nbsp; Exploring new technologies and developing software solutions.
+- :heavy_check_mark: &nbsp; Back-end developer and Mobile-app developer.
 - ☕ &nbsp; Favourite quote - "Roses from concrete" 
 
 <h3>🛠 Tech Stack</h3>
@@ -23,7 +23,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karokojnr&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/karokojnr/github-readme-stats)
 
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> :link: Connect with Me </h3>
 
 <p align="center">
 &nbsp; <a href="https://twitter.com/karoko_jr" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
@@ -32,4 +32,4 @@
 &nbsp; <a href="mailto:karoko.jnr99@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-⭐️ From [karokojnr](https://github.com/karokojnr)
+From [karokojnr](https://github.com/karokojnr)
