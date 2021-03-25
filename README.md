@@ -1,10 +1,10 @@
-<h2> Hey there! I'm Kennedy. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Hey there!👋</h2>
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning VueJS
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🔭 &nbsp; I’m currently learning VueJS and Docker.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 💼 &nbsp; Back-end developer and mobile-appd developer.
 - ☕ &nbsp; Favourite quote - "Roses from concrete" 
 
