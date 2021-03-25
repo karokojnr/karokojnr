@@ -1,45 +1,35 @@
-<!--
-**karokojnr/karokojnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Hey there! I'm Kennedy. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-Here are some ideas to get you started:
+<h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 &nbsp; I’m currently learning VueJS
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 💼 &nbsp; Back-end developer and mobile-appd developer.
+- ☕ &nbsp; Favourite quote - "Roses from concrete" 
 
-<p align="center">
-<!--   <img src="" height="200"/> -->
-</p>
-<hr>
-<!-- <h1 align="center">Hi, there<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1> -->
-<h3 align="center">Back-end Developer | Mobile-app Developer</h3>
-</p>
+<h3>🛠 Tech Stack</h3>
 
-<p align="center">
-  <em>
-    I'm a professional software enginer. I love working on back-ends and also cross platform mobile applications. I have experience in Go(Golang), Flutter and Node js, but I can work with any programming language.<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
-I'm passionate about making sure that Mobile Apps and Back-end services I create are responsive, emotive, aesthetically pleasing, clear, on-brand and usable — with a touch of mellow smoothness. I have great programming experience, a track record of successful projects, and proven expertise in agile development processes.
-  </em> 
-  <br>
-</p>
+- 🖥  &nbsp; GO | Node.js | Flutter | HTML | CSS | Bootstrap
+- 🛢 &nbsp; PostgreSQL | MongoDB
+- 🔧 &nbsp; Goland | Android Studio | Visual Studio code 
 
 <br>
- 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=devSouvik&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="karokojnr's Github Stats">
+
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karokojnr&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+
+
+<h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-  <code> <img height="50" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/go/go.png"> </code> 
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-lockup-bg.jpg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/postgresql-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mongodb-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html.png"> </code>
-  <code> <img height="50" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css.png"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/docker-ar21.svg"> </code>
-   <hr>
- </p>
+&nbsp; <a href="https://twitter.com/karoko_jr" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/karoko_jr/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/karoko-jnr-716b19153/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:karoko.jnr99@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
+
+⭐️ From [karokojnr](https://github.com/karokojnr)
