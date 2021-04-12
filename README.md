@@ -19,7 +19,18 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=karokojnr&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="karokojnr's Github Stats">
 
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karokojnr&line_height=20&layout=compact&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/karokojnr/github-readme-stats)
+-->
+
+
+## 🧰 Languages and Tools:
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="Golang" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node JS" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+</p>
 
 
 <hr>
