@@ -23,7 +23,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karokojnr&line_height=20&layout=compact&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/karokojnr/github-readme-stats)
 -->
 
-
 ## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="Golang" height="40" style="vertical-align:top; margin:4px">
@@ -33,9 +32,7 @@
 </p>
 
 
-<hr>
-<h3> :link: Connect with Me </h3>
-
+## :link: Connect with Me:
 <p align="center">
 &nbsp; <a href="https://twitter.com/karoko_jr" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
 &nbsp; <a href="https://www.instagram.com/karoko_jr/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
