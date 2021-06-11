@@ -1,11 +1,12 @@
 <h2> Hey there!👋</h2>
-<img align="right" alt="KAROKOJNR" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" width="500"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=karokojnr&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="karokojnr's Github Stats">
+<!-- <img align="right" alt="KAROKOJNR" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" width="500"/> -->
 
 <h3> :man:About Me </h3>
 
 - :heavy_check_mark: &nbsp; Back-end developer and Mobile-app developer.
 - :microscope: &nbsp; I'm always exploring new technologies and developing software solutions.
-- :books: &nbsp;That said :point_up: I’m currently learning VueJS and Docker.
+- :books: &nbsp;That said :point_up: I’m currently learning VueJS.
 - :musical_note: &nbsp; A lover of house music 
 
 <h3>🛠 Tech Stack</h3>
@@ -16,7 +17,7 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=karokojnr&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="karokojnr's Github Stats">
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=karokojnr&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="karokojnr's Github Stats"> -->
 
 
 <!--
