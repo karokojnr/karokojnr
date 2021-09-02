@@ -11,7 +11,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 🖥  &nbsp; GO | Node.js | Flutter | Android
+- 🖥  &nbsp; GO | Node.js | Flutter | Android | Vuejs
 - 🛢 &nbsp; PostgreSQL | MongoDB | Redis
 - 🔧 &nbsp; Goland | Android Studio | Visual Studio code | IntelliJ
 
