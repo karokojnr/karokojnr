@@ -6,7 +6,7 @@
 
 - :heavy_check_mark: &nbsp; Back-end developer and Mobile-app developer.
 - :microscope: &nbsp; I'm always exploring new technologies and developing software solutions.
-- :books: &nbsp;That said :point_up: I’m currently learning GraphQL.
+- :books: &nbsp;That said :point_up: I’m currently learning gRPC.
 - :musical_note: &nbsp; A lover of house music 
 
 <h3>🛠 Tech Stack</h3>
