@@ -17,13 +17,13 @@
 
 <br>
 
-<!-- <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=karokojnr&include_all_commits=true&count_private=true&show_icons=true&theme=radical" alt="karokojnr's Github Stats"> -->
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=karokojnr&include_all_commits=true&count_private=true&show_icons=true&theme=radical" alt="karokojnr's Github Stats">
 
 
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=karokojnr&line_height=20&layout=compact&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/karokojnr/github-readme-stats.vercel.app)
+<!-- [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=karokojnr&line_height=20&layout=compact&text_color=D3D3D3&bg_color=0,000000,130F40)](https://github.com/karokojnr/github-readme-stats.vercel.app) -->
 
-<!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=karokojnr&line_height=20&layout=compact&text_color=D3D3D3&bg_color=0,000000,130F40&langs_count=10&theme=tokyonight)](https://github.com/karokojnr/github-readme-stats) -->
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=karokojnr&line_height=20&layout=compact&text_color=D3D3D3&bg_color=0,000000,130F40&langs_count=10&theme=tokyonight)](https://github.com/karokojnr/github-readme-stats)
 
 
 ## 🧰 Languages and Tools:
