@@ -4,7 +4,7 @@
 
 <h3> :man:About Me </h3>
 
-- :heavy_check_mark: &nbsp; Back-end developer and Mobile-app developer.
+- :heavy_check_mark: &nbsp; Flutter developer | Back-end developer.
 - :microscope: &nbsp; I'm always exploring new technologies and developing software solutions.
 <!-- - :books: &nbsp;That said :point_up: I’m currently learning gRPC. -->
 - :musical_note: &nbsp; I love EDM music 
