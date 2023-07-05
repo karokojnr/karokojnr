@@ -4,14 +4,14 @@
 
 <h3> :man:About Me </h3>
 
-- :heavy_check_mark: &nbsp; Flutter developer | Back-end developer.
+- :heavy_check_mark: &nbsp; Mobile Eng. | Back-end Eng.
 - :microscope: &nbsp; I'm always exploring new technologies and developing software solutions.
 <!-- - :books: &nbsp;That said :point_up: I’m currently learning gRPC. -->
 - :musical_note: &nbsp; I love EDM music 
 
 <h3>🛠 Tech Stack</h3>
 
-- 🖥  &nbsp; GO | Node.js | Flutter | Vuejs/Nuxtjs | gRPC
+- 🖥  &nbsp; GO | Node.js | Android | Flutter | Vuejs/Nuxtjs | gRPC
 - 🛢 &nbsp; PostgreSQL | MongoDB | Redis
 - 🔧 &nbsp; Goland | Android Studio | Visual Studio code | IntelliJ
 
