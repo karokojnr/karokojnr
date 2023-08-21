@@ -24,6 +24,7 @@
 
 ## 📝 Articles:
 - [How to Create User Registration and Login API with Dart Frog + MongoDB + JWT](https://medium.com/@karokojnr/how-to-create-user-registration-and-login-api-with-dart-frog-mongodb-jwt-c4fb7f3f6086)
+- [How to create Full-stack applications in Flutter using gRPC](https://medium.com/@karokojnr/how-to-create-full-stack-applications-in-flutter-using-grpc-27b12dab6b2d)
 
 
 ## 🧰 Languages and Tools:
