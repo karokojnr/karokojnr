@@ -7,7 +7,6 @@
 - :heavy_check_mark: &nbsp; Mobile | Backend
 - :microscope: &nbsp; I always explore new technologies and develop software solutions.
 <!-- - :books: &nbsp;That said :point_up: I’m currently learning gRPC. -->
-- :musical_note: &nbsp; I love EDM music 
 
 <h3>🛠 Tech Stack</h3>
 
