@@ -2,7 +2,7 @@
 
 - 🖥️ GO is my bread and butter, but I love to dabble in Android and Flutter.
 - 📚 I’m learning Nuxtjs at the moment
-- 🐦 You can follow me on Twitter [@kennedy_karoko](https://twitter.com/kennedy_karoko)
+- 🐦 You can follow me on X [@kennedy_karoko](https://twitter.com/kennedy_karoko)
 - ✍ You can also check some of my articles on [Medium](https://www.medium.com/@karokojnr/)
 
 ### Articles:
