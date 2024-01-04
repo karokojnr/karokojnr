@@ -1,7 +1,7 @@
 ### Hi, I'm Kennedy Karoko
 
 - 🖥️ GO is my bread and butter, but I love to dabble in Android and Flutter.
-- 📚 I’m learning Rust at the moment
+- 📚 I’m learning Nuxtjs at the moment
 - 🐦 You can follow me on Twitter [@kennedy_karoko](https://twitter.com/kennedy_karoko)
 - ✍ You can also check some of my articles on [Medium](https://www.medium.com/@karokojnr/)
 
